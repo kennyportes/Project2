@@ -1,0 +1,3 @@
+As a user, 
+I want to see a list of games with their titles and cover art, so that I can visually identify the games 
+in the search results.

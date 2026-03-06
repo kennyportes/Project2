@@ -1,0 +1,3 @@
+As a casual browser, 
+I want the search to update as I type (or when I hit enter), so that I can see relevant results without 
+navigating away from the home page.

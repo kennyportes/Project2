@@ -1,0 +1,3 @@
+As a user, 
+I want an easy way to navigate back to my search results after looking at a game's details, so that I 
+don't have to re-type my search query.
