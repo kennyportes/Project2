@@ -3,11 +3,16 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-position: top;
+    ;
 
 }
 
-img {
-    opacity: 0.9;
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
 }
 
 .fascinate-regular {
@@ -15,4 +20,15 @@ img {
   font-weight: 400;
   font-style: normal;
   color: aliceblue;
+}
+
+img {
+    opacity: 0.9;
+    margin: 10px;
+    height: 200px;
+    width: auto;
+}
+
+.form {
+    margin: 10px;
 }
