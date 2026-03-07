@@ -1,0 +1,18 @@
+body { 
+    background-image: url("./Images/my_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+img {
+    opacity: 0.9;
+}
+
+.fascinate-regular {
+  font-family: "Fascinate", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: aliceblue;
+}

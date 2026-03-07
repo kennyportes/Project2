@@ -1,6 +1,8 @@
 
-fetch('https://api.giphy.com/v1/gifs/search?api_key=WyZnDZxGuIBfvxB1dxbD5rN1T98zDR8P&q=playstation+5+games&limit=3')
+fetch('https://api.rawg.io/api/games?key=a798828782a44a61b7c563c58c97e47f&platforms=187')
 .then(response => response.json())
-.then(data =>{
-    displaygames()
-})
+.then(gaming =>{
+    displaygame(gaming.data);
+});
+
+
