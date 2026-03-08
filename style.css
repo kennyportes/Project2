@@ -32,3 +32,14 @@ img {
 form {
     margin: 10px;
 }
+
+.text {
+    color: aliceblue;
+}
+
+.game-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+}
